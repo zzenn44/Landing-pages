@@ -1,0 +1,68 @@
+h1{
+    text-align: center;
+}
+
+.text{
+    margin-top: 3px;
+    text-align: center;
+    text-align: center;
+    align-items: center;
+    margin-left: 25%;
+    margin-right: 25%;
+   
+
+
+
+   
+
+
+}
+#box{
+    border-radius: 12px;
+    padding: .25cm;
+    padding-right: 2%;
+    padding-left: 2%;
+
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-left: 45%;
+    margin-right: 45%;
+    margin-top: 30px;
+ 
+
+
+
+}
+
+#img1{
+border-radius: 12px;
+padding: 5px;}
+#img2{
+    border-radius: 12px;
+    padding: 5px;}
+#img3{
+    border-radius: 12px;
+    padding: 5px;}
+#img4{
+    border-radius: 12px;
+    padding: 5px;}
+#img5{
+    border-radius: 12px;
+    padding: 5px;}
+#img6{
+    border-radius: 12px;
+    padding: 5px;}
+#img7{
+    border-radius: 12px;
+    padding: 5px;}
+#img8{
+    border-radius: 12px;
+    padding: 5px;}
+    
+.images{
+
+padding: 80px;
+
+
+}
