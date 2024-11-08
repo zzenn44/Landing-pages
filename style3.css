@@ -1,0 +1,55 @@
+#parag{
+  margin-left: 15%;
+  align-content:right;
+  object-fit: cover;
+
+
+}
+
+#head{
+margin-right: .5%;
+align-content:left;
+font-size: 3ch;
+
+overflow: visible;
+ white-space: nowrap; 
+ /* no wrapping within a provided space */
+ margin-left:5%;
+
+
+ } 
+
+ #box{
+  
+    border-radius: 12px;
+    padding: .25cm;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: white;
+    text-align: center;
+    background-color: black;
+    margin-right: 90%;
+    margin-top: 10px;
+    width: max-content;
+  
+ }
+ #pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+    width: 100vw;
+    overflow: hidden;
+    margin-top: 5%;
+  
+
+  
+ }
+
+ #pic img {
+    width: 100vw;
+    height: auto;
+    object-fit: cover;
+    align-self: center;
+
+margin: 2.5%;}
