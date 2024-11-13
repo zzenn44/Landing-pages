@@ -2,36 +2,34 @@
     font-size: 30px;
     margin-right: 70%;
 font-display: 100px;
-color: palevioletred;
+color: black;
 }
 #pic1{
-    height: 100px;
-    width: 200px;
-    margin: 30px;
+    height: 300px;
+    width: 450px;
+    margin: 20px;
     
 
 }
 
 #pic2{
-    height: 100px;
-    width: 200px;
-    padding: 30px;
+     height: 300px;
+    width: 450px;
+    margin: 20px;
 
     
 }
 
 #pic3{
-    height: 100px;
-    width: 200px;
-    margin: 30px;
-
+     height: 300px;
+    width: 450px;
+    margin: 20px;
     
 }
 #content{
     display: flex;
     flex-direction: row;
     align-items: self-start;
-    padding: 50px;
     object-fit: cover;
 
 }
